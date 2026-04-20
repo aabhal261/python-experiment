@@ -1,5 +1,5 @@
 #question number 1
-a="murtuza"
+a="pranav"
 print(len(a))
 
 #question number 2
